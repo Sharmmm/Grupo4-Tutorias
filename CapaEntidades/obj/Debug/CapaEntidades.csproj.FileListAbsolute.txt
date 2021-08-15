@@ -1,0 +1,30 @@
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaEntidades\bin\Debug\CapaEntidades.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaEntidades\obj\Debug\CapaEntidades.pdb

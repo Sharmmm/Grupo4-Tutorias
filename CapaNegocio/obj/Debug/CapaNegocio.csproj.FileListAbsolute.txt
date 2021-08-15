@@ -1,0 +1,55 @@
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\bin\Debug\CapaEntidades.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\bin\Debug\CapaEntidades.pdb
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\pc antigua\disco d\Joel\C# all\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\User\Desktop\SoftwareC#\Tut_capas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\RepositorioTutorias\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\archivos de aprendizaje\UNIVERSIDAD\2021-I\Desarrollo de software\ProbandoAndo\Tutorias\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\bin\Debug\CapaEntidades.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\bin\Debug\CapaEntidades.pdb
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\SEMESTRE 2021-I\DESARROLLO DE SOFTWARE\TutoriasF\CapaNegocio\obj\Debug\CapaNegocio.pdb
